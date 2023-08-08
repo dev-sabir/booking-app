@@ -13,8 +13,7 @@ The project consists of two Go files:
 
 To run this application, you need to have Go installed on your machine. Once you have Go installed, you can run the application using the following command:
 
-- Clone the repository to your local machine:
-  ```git clone https://github.com/sabir9202/booking-app.git```
+- Clone the repository to your local machine: `git clone https://github.com/sabir9202/booking-app.git`
 - `cd go-conference-ticket-booking`
 - `go run main.go helper.go`
 
